@@ -1,0 +1,23 @@
+Packages:
+
+Pandas
+NLTK
+Geopy
+Spacy
+
+
+
+Instructions:
+
+The scraper needs to be called in terminal/command line:
+1. Open a terminal/command at the location of the scraper 'CentralAfricanRepublicScraper'
+   in your terminal run the following script
+
+2. write: 'scrapy crawl News_Scraper -o NewsScraperReuters.csv -t csv' - this will save a csv in your file directory
+
+           syntax: scrapy crawl SCRAPER_NAME -output FILENAME.csv -t csv
+
+3. After the scraper is finished, run __init__.py under 'CentralAfricanRepublicScraper'
+   to launch the event detection program
+
+4. Open and run 'Event Detection - Reuters Map.ipynb' to display interactive map
