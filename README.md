@@ -1,4 +1,5 @@
-# Event_Detection_App_(Text_Mining)
+# Central African Republic: Event Detection App (prototype)
+
 This application scrapes Reuters Africa's RSS feed, extract NATO verbs related incidents, then finds and plots the extracted events on a map.
 
 
